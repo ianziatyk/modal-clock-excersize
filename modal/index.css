@@ -1,0 +1,28 @@
+body{
+	background-image: url('images/scene.jpg');
+	background-size: 100%;
+	background-repeat: none;
+
+}
+
+h1{position: relative;
+	font-family: impact;
+	font-size: 200px;
+	font-style: normal;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+	float: right;
+}
+
+#modal{border: 10px solid black;
+	color: black;
+	float: left;
+
+}
+div{color:blue;
+	margin-top:
+	;
+	text-align: center;
+	position: fixed;
+}
